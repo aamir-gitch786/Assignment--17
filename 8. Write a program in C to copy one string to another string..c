@@ -14,5 +14,6 @@ int main()
     {
         b[i]=a[i];
     }
+    b[i]='\0';
     printf("Copyed string is : %s",b);
 }
