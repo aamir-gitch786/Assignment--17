@@ -6,7 +6,7 @@
 
 int main()
 {
-    char a[100],b[100],tem;
+    char a[100],tem;
     printf("Enter the strings \n");
     fgets(a,100,stdin);
     for(int i=0;a[i];i++)
