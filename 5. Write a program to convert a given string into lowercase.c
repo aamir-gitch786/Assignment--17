@@ -1,6 +1,6 @@
 /******************************************************************************
 
-4. Write a program to convert a given string into uppercase
+4. Write a program to convert a given string into lowercase
 
 *******************************************************************************/
 
@@ -18,7 +18,7 @@ int main()
      if(s[i]>=65 && s[i]<=90)
       s[i]+=32;
   }
-  printf("Strings are in lower : %s",s);
+  printf("Strings in lowercase : %s",s);
  
 
     return 0;
