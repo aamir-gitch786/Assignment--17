@@ -24,7 +24,7 @@ int main()
      s[n-j-1]=tem;
      
   }
-  printf("Strings are in lower : %s",s);
+  printf("Strings are in reverse order : %s",s);
  
 
     return 0;
